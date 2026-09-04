@@ -1,0 +1,2 @@
+rootProject.name = "vuq0zClient"
+include ':app'
